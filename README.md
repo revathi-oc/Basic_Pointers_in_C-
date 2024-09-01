@@ -18,7 +18,7 @@ Dynamic memory allocation, handled through pointers, is achieved using the new a
 
 ![image](https://github.com/user-attachments/assets/d9d3a98c-a07b-486e-a041-c38206be71b5)
 ## Conclusion
-We leanrt basics about pointer in C++.
+We leanrt basics about pointers in C++.
 
 
 
