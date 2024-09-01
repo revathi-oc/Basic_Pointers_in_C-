@@ -1,4 +1,4 @@
-# Pointer Basic in C++
+# Basic Pointer in C++
 ## Aim
 We learn about declaring, initializing and basic features of pointers in C++.
 ## Theory
